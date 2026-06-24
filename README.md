@@ -88,15 +88,6 @@ The sun or moon is displayed based on the current time of day.
 ### Forecast
 A separate script loads historical data exported from InfluxDB as CSV and uses Facebook Prophet to predict temperature, humidity, and light levels 15 minutes into the future.
 
----
-
-## Results
-
-![Temperature Graph](images/grafana_temperature.png)
-![Humidity Graph](images/grafana_humidity.png)
-
-![Temperature Forecast](images/forecast_temperature.png)
-
 ## Setup
 
 ### ESP32

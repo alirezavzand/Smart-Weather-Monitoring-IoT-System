@@ -133,4 +133,4 @@ python forecast/forecast.py
 **Alireza Vakilian Zand**  
 Master's student in Electronics Engineering for IoT Systems  
 Università di Bologna  
-[LinkedIn](www.linkedin.com/in/avzand) · vakilian.alireza@gmail.com
+vakilian.alireza@gmail.com
